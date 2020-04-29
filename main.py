@@ -13,4 +13,4 @@ async def on_message(message):
                 await message.delete()
                 await message.channel.send(message.author.mention+' your message was censored')
 
-client.run("NzA1MTI1NjI2NzE3Mjc0MjAy.XqnKBA.MIi71fOMj1P5v887iB7uZxl7eAE")
+client.run("token")
